@@ -1,5 +1,7 @@
 # Workday Scheduler
 
+![screenshot of site](https://camo.githubusercontent.com/6dbc0065ce426c1f77274ee9d33de6e0d1765f3296bf997c4ff71c66e82e1627/68747470733a2f2f7261772e6769746875622e636f6d2f727761796e65776869746531352f4461696c792d576f726b2d506c616e6e65722f6d61696e2f6173736574732f696d672f73637265656e73686f742e706e67)
+
 ## Live Deployment Link
 -[Scheduler](https://mackoyler.github.io/Workday_Scheduler/)
 
